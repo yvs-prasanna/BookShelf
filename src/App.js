@@ -11,7 +11,7 @@ import Library from "./components/Library";
 const PreparedBooks = [
   {
     id: 1,
-    title: "The Great Gatsby",
+    title: "The Great Khali",
     author: "F. Scott Fitzgerald",
     genre: "Classic",
     rating: 4.7,
