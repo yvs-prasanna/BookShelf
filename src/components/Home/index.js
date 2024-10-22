@@ -19,7 +19,7 @@ const Home = () => (
         <div className="Home-Page">
           <div className="header">
             <Link to="/" style={{ color: "yellow" }}>
-              <h1 className="logo">Logo</h1>
+              <h1 className="logo">Website Logo</h1>
             </Link>
 
             <Link to="/library" style={{ color: "yellow" }}>
