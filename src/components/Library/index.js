@@ -12,7 +12,7 @@ const Library = () => (
       };
       return (
         <div className="Library-page">
-          <h1 className="savedBooks">Saved Books</h1>
+          <h1 className="savedBooks">Favourite Books</h1>
           <div className="container-div-Library">
             <ul className="container-Library">
               {likedBooks.map((each) => (
